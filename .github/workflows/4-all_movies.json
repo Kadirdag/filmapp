@@ -5,7 +5,7 @@
     "categoryItemList": [
       {	
 
-        "fileUrl": "httpss://disk.yandex.com.tr/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fpatallok.mp4",
+        "fileUrl": "https://disk.yandex.com.tr/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fpatallok.mp4",
         "id": 1,
         "imageUrl": "https://www.yenibakis.com.tr/images/etkinlikler/marsli.jpg",
         "movieName": "Ardağanlı"
