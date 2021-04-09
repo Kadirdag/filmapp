@@ -1,0 +1,173 @@
+[
+  {
+    "categoryId": 1,
+    "categoryTitle": "Uzay ve uzaylı Temalı Filmler",
+    "categoryItemList": [
+      {	
+
+        "fileUrl": "https://drive.google.com/file/d/1jLdmUil--0TmiMiNoWf4LLmWCfYANZ2N/view",
+        "id": 1,
+        "imageUrl": "https://www.yenibakis.com.tr/images/etkinlikler/marsli.jpg",
+        "movieName": "Marslı"
+      },
+      {	
+        "fileUrl": "https://www593.ff-02.com/token=cBIAxnXM3ulLckcD2-7BIg/1617740803/78.180.0.0/61/1/4f/238d374fa07f80b0a9cd9864f35b94f1-360p.mp4",
+        "id": 2,
+        "imageUrl": "https://zeka-oyunlari.s3-eu-west-1.amazonaws.com/s5674hd3ec74867c475ca84b45403ae46d0a29a0928130.?1598779377",
+        "movieName": "Yıldızlararası"
+      },
+      {
+        "fileUrl": "https://www153.ff-01.com/token=KvpLPgwDFwA99yvaos21Dg/1617740889/78.180.0.0/63/6/f0/b88d6c1645e57a5d044db8b6983d1f06-360p.mp4",
+        "id": 3,
+        "imageUrl": "https://www.oneriajandam.com/wp-content/uploads/2018/05/film-onerisi-yercekimi-gravity-1024x567.jpg",
+        "movieName": "Yerçekimi"
+      },
+      {	
+
+        "fileUrl": "https://www638.ff-02.com/token=39BUElD0HjK7NJujxMWFSA/1617741747/78.180.0.0/55/1/dc/a316b734cdcdc4da866cb4fd37054dc1-360p.mp4",
+        "id": 4,
+        "imageUrl": "https://parlakjurnal.com/wp-content/uploads/2017/01/uzay-yolcular%C4%B1-filmi-yorumu.jpg",
+        "movieName": "Uzay Yolcuları"
+      },
+      {
+        "fileUrl": "https://www1965.ff-04.com/token=2UTSY11tcDmIUWOo-zXvxg/1617741074/78.180.0.0/60/3/da/8159e8021bd91daa0efd9a747d9f7da3-360p.mp4",
+        "id": 5,
+        "imageUrl": "https://sm.ign.com/t/ign_tr/screenshot/default/star-wars-episode-4-advance-poster_jmxy.h720.jpg",
+        "movieName": "Yıldız Savaşları Bölüm 4: Yeni Bir Umut"
+      },
+      {
+        "fileUrl": "https://www1502.ff-04.com/token=n0LWBk9h3ogGLzHuxIx0Vg/1617741112/78.180.0.0/61/c/bd/c4cbd232e8e3630fd42bf16af8e22bdc-360p.mp4",
+        "id": 6,
+        "imageUrl": "https://www.konudeposu.com/wp-content/uploads/2016/08/Star_Trek_The_Motion_Picture-e1472672999929.jpg",
+        "movieName": "Uzay Yolu 1"
+      },
+      {
+        "fileUrl": "https://www205.ff-01.com/token=Ju5t5_nXQtYU3IXk9HzRkQ/1617741172/78.180.0.0/63/6/e1/9606c98729e33e60b35f6400478c2e16-360p.mp4",
+        "id": 7,
+        "imageUrl": "https://netflixinbelgie.be/wp-content/uploads/2019/04/Oblivion-Netflix-810x456.jpg",
+        "movieName": "Oblivion"
+      },
+      {	
+        "fileUrl": "https://www2058.ff-05.com/token=n9QxR0bh6cbrq8SPfb9nCA/1617741260/78.180.0.0/63/5/a9/43ec625caa0322f418b8332a14ed2a95-360p.mp4",
+        "id": 8,
+        "imageUrl": "https://i.pinimg.com/736x/b8/56/f0/b856f0ca3f65478adba048be25fce499.jpg",
+        "movieName": "Elysium: Yeni Cennet"
+      },
+      {
+        "fileUrl": "https://www610.ff-02.com/token=U42wFNmgXRPTyy85u90b2A/1617741314/78.180.0.0/61/4/cf/3f83e2f8b2d5b777411523f7942b3cf4-360p.mp4",
+        "id": 9,
+        "imageUrl": "https://i.pinimg.com/originals/5a/16/72/5a16726e4581cc75c915c8ea9608325a.jpg",
+        "movieName": "Dünyalar Savaşı"
+      },
+      {	
+        "fileUrl": "https://www1665.ff-04.com/token=aMdQOVb8xkhypSDyX3XcTQ/1617741366/78.180.0.0/63/3/40/84931564c690b355a11106424c987403-360p.mp4",
+        "id": 10,
+        "imageUrl": "https://occ-0-778-1490.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ2DIVypdXdH2Rg1RCQdW3N2gm1_V9yjlK_m9ho4aPeRQZaphbBkSrF117QtncIbWt0i7hPWLFeL0xtPRRhz1VfaPVle.jpg?r=bfa",
+        "movieName": "Derin Darbe"
+      }
+      
+    ]
+  },
+  {
+    "categoryId": 2,
+    "categoryTitle": "Movies in Hindi",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 1,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bee4c34123ee1b254dc1d55abc8f708b34a3827892588d6819d5c20fd6a5da13._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Bhoot"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 2,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2f813d581199099922bd238aa1d407babc3b3bf5112bb835b95c26fabda69e9a._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Blackmail"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 3,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4a0bd5b6cff38faf567b0627ab82b44411ca66876d4534e8bd0bfcf514a535f5._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "movieName": "Kaarwaan"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 4,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/54d263b84f8d46fdf664fc2561ae4371d2ec6533634e59a3634f44c74c040054._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "102 Not-Out"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 5,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4ff53dd27ebc4d07abc9aafa536e0e2053396f7d25ac5ad7537e365f97ad1314._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Shikara"
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "categoryTitle": "Kids and family movies",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 1,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0a44ec3c8ee37914781c0daac1a0a6366c755bcdfd03f7c3d3f8048034945638._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Madagascar"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 2,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bd7bdc1f0402229386116115927fbe575613714414425b3228e0a98e99bf7d62._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Harry Potter"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 3,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/27c4a172f872c82abadf534421e2c30736a63464a6ea67e91464bc0972413126._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Jurassic Park"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 4,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e0de18ac1340ee2e0b603f14eb14e131ed2260a6526d01988b8b70fcf4cdc7a3._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Storks"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 5,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/55ac751d198a79679f79d0d6f15c1e62d4aa70a99cbb66539f124ce9f9f920ee._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "Lost and Found"
+      }
+    ]
+  },
+  {
+    "categoryId": 4,
+    "categoryTitle": "Amazon Original series",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 1,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c435cc1eac74025eaa5c7512e6371bb91cdc08ac6edcc58ead1c2321ec1b4fdf._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "EL PRESIDENT"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 2,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9cb4c9bf70f2e01f15976dd6d1a3c31ea69fa005a4eaf17b21ad6d85f1366bd5._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "PatalLok"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 3,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/07cfda1dd1528776f5096513f7b4cd2e9432c18eef0612ba7de68c927b3450de._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "UPLOAD"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 4,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/amazon_studios-FMAN_S1_STM_IN-Full-Image_GalleryCover-rw-RW-1569071977886._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "The Family Man"
+      }
+    ]
+  }
+]
