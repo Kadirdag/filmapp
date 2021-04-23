@@ -4,11 +4,10 @@
     "categoryTitle": "Uzay ve uzaylı Temalı Filmler",
     "categoryItemList": [
       {	
-	"fragmanurl": "https://tr.vid.web.acsta.net/uk/medias//nmedia/90/15/08/25/09/19539043_hd_013.mp4",
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/filmler/video/upload/v1619211086/kralsakir/kralsakir1.mp4",
         "id": 1,
-        "imageUrl": "https://www.yenibakis.com.tr/images/etkinlikler/marsli.jpg",
-        "movieName": "Ardağanlı"
+        "imageUrl": "https://i.ytimg.com/vi/0sAKnm3rBjE/maxresdefault.jpg",
+        "movieName": "Kral Şakir 1.Bölüm"
       },
       {	
         "fileUrl": "https://disk.yandex.com.tr/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fpatallok.mp4",
