@@ -403,31 +403,32 @@ Sallamış yüzgeçlerini, demiş bana elveda "
         "fileUrl": "https://res.cloudinary.com/filmler/video/upload/v1619364616/populer/kurabiye.mp4",
         "id": 1,
         "imageUrl": "https://i.ytimg.com/vi/_EJXu4QMSew/maxresdefault.jpg",
-        "movieName": "Adisebaba Çizgi Film Masallar - Zencefilli Kurabiye Adam \n\n  "
+        "movieName": "Zencefilli Kurabiye Adam"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619365381/populer/kirmizi.mp4",
         "id": 2,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2f813d581199099922bd238aa1d407babc3b3bf5112bb835b95c26fabda69e9a._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Blackmail"
+        "imageUrl": "https://i.ytimg.com/vi/2h_aiBo5H1E/maxresdefault.jpg",
+        "movieName": "Kırmızı Başlıklı Kız"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619365719/populer/bremin.mp4",
         "id": 3,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4a0bd5b6cff38faf567b0627ab82b44411ca66876d4534e8bd0bfcf514a535f5._UR1920,1080_RI_SX356_FMwebp_.jpg",
-        "movieName": "Kaarwaan"
+        "imageUrl": "https://i.ytimg.com/vi/yyZh24aXRT4/maxresdefault.jpg",
+        "movieName": "Bremen Mızıkacıları"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619365919/populer/kulkedisi.mp4",
         "id": 4,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/54d263b84f8d46fdf664fc2561ae4371d2ec6533634e59a3634f44c74c040054._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "102 Not-Out"
+        "imageUrl": "https://i.ytimg.com/vi/Hb0USVc19E0/maxresdefault.jpg",
+        "movieName": " Külkedisi (Sindirella)"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619366052/populer/rapunzel.mp4",
         "id": 5,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4ff53dd27ebc4d07abc9aafa536e0e2053396f7d25ac5ad7537e365f97ad1314._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Shikara"
+        "imageUrl": "https://i.ytimg.com/vi/YblC4cu905E/maxresdefault.jpg",
+        "movieName": "Rapunzel
+"
       }
     ]
   },
