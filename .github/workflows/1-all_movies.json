@@ -397,13 +397,13 @@ Sallamış yüzgeçlerini, demiş bana elveda "
   },
   {
     "categoryId": 2,
-    "categoryTitle": "Movies in Hindi",
+    "categoryTitle": "En Beğenilen Çizgi Filmler",
     "categoryItemList": [
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/filmler/video/upload/v1619364616/populer/kurabiye.mp4",
         "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bee4c34123ee1b254dc1d55abc8f708b34a3827892588d6819d5c20fd6a5da13._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Bhoot"
+        "imageUrl": "https://i.ytimg.com/vi/_EJXu4QMSew/maxresdefault.jpg",
+        "movieName": "Adisebaba Çizgi Film Masallar - Zencefilli Kurabiye Adam \n\n  "
       },
       {
         "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
