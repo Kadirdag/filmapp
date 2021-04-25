@@ -434,37 +434,62 @@ Sallamış yüzgeçlerini, demiş bana elveda "
   },
   {
     "categoryId": 3,
-    "categoryTitle": "Kids and family movies",
+    "categoryTitle": "Popüler Çizgi Filmler",
     "categoryItemList": [
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619366428/populer/pinokyo.mp4",
         "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0a44ec3c8ee37914781c0daac1a0a6366c755bcdfd03f7c3d3f8048034945638._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Madagascar"
+        "imageUrl": "https://i.ytimg.com/vi/knY2zzGVfvU/maxresdefault.jpg",
+        "movieName": "Pinokyo"
       },
       {
         "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
         "id": 2,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bd7bdc1f0402229386116115927fbe575613714414425b3228e0a98e99bf7d62._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Harry Potter"
+        "imageUrl": "https://i.ytimg.com/vi/XCtzC66zJyo/maxresdefault.jpg",
+        "movieName": "Pamuk Prenses ve Yedi Cüceler"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619366552/populer/pamuk.mp4",
         "id": 3,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/27c4a172f872c82abadf534421e2c30736a63464a6ea67e91464bc0972413126._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Jurassic Park"
+        "imageUrl": "https://i.ytimg.com/vi/2h_aiBo5H1E/maxresdefault.jpg",
+        "movieName": "Kırmızı Başlıklı Kız"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619366800/populer/cizmelikedi.mp4",
         "id": 4,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e0de18ac1340ee2e0b603f14eb14e131ed2260a6526d01988b8b70fcf4cdc7a3._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Storks"
+        "imageUrl": "https://i.ytimg.com/vi/D3HCPEjqTIk/maxresdefault.jpg",
+        "movieName": "Çizmeli Kedi"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619367093/populer/alaaddin.mp4",
+        "id": 4,
+        "imageUrl": "https://i.ytimg.com/vi/a83A4egDuxs/maxresdefault.jpg",
+        "movieName": "Alaaddin'in Sihirli Lambası"
+      },
+      {
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619367259/populer/alibaba.mp4",
+        "id": 4,
+        "imageUrl": "https://i.ytimg.com/vi/a7_I1UrLKIw/maxresdefault.jpg",
+        "movieName": "Ali Baba ve Kırk Haramiler"
+      },
+       {
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619367403/populer/peterpan.mp4",
+        "id": 4,
+        "imageUrl": "https://i.ytimg.com/vi/0mfrvDVYP-w/maxresdefault.jpg",
+        "movieName": "Peter Pan"
+      },
+       {
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619367545/populer/heidi.mp4",
+        "id": 4,
+        "imageUrl": "https://i.ytimg.com/vi/bU811kA7YBU/maxresdefault.jpg",
+        "movieName": "Heidi"
+      },
+     
+      {
+        "fileUrl": "https://res.cloudinary.com/daehvukq8/video/upload/v1619367769/populer/findikki.mp4",
         "id": 5,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/55ac751d198a79679f79d0d6f15c1e62d4aa70a99cbb66539f124ce9f9f920ee._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Lost and Found"
+        "imageUrl": "https://i.ytimg.com/vi/ZqI1dApxnPg/maxresdefault.jpg",
+        "movieName": "Fındıkkıran (Yılbaşı Hikayesi)"
       }
     ]
   },
