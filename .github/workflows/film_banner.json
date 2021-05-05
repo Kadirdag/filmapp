@@ -229,24 +229,31 @@ Uzaya gitsene"
  
   {
     "bannerCategoryId": "3",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "fileUrl": "https://res.cloudinary.com/dnlsejiuj/video/upload/v1620217319/cizgifilm/bubbu.mp4",
     "id": 1,
-    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/moviebanner1.png",
-    "movieName": "A Beautiful Day"
+    "imageUrl": "https://i.ytimg.com/vi/gzVpvT0M-WY/maxresdefault.jpg",
+    "movieName": "Bubbu Benim Evcil Hayvanım"
   },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "fileUrl": "https://res.cloudinary.com/dnlsejiuj/video/upload/v1620217394/cizgifilm/grizzy.mp4",
     "id": 2,
-    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/moviebanner2.png",
-    "movieName": "Black-Mail"
+    "imageUrl": "https://i.ytimg.com/vi/v2-G1S2uhXY/maxresdefault.jpg",
+    "movieName": "GRIZZY VE LEMMINGLER I Lemming Hava Yolları I TAM BÖLÜM I Cartoon Network Türkiye"
   },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "fileUrl": "https://res.cloudinary.com/dnlsejiuj/video/upload/v1620217495/cizgifilm/boba.mp4",
     "id": 3,
-    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/moviebanner3.png",
-    "movieName": "SUFNA"
+    "imageUrl": "https://i.ytimg.com/vi/_ncyG0Rwkl8/maxresdefault.jpg",
+    "movieName": "Booba - Palyaço - Bölüm - Çocuklara Özel \n\n Booba, 5 yaşında sevimli ve meraklı bir çocuk. Dünyayı kızgınlık veya içerleme ile değil, yalnızca sevinç ve şaşkınlık içinde keşfediyor."
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://res.cloudinary.com/dnlsejiuj/video/upload/v1620217749/cizgifilm/sarmakara.mp4",
+    "id": 4,
+    "imageUrl": "https://i.ytimg.com/vi/4mTPVQ7NMFY/maxresdefault.jpg",
+    "movieName": "Sar Makarayı Şarkısı - Zeynoş ile Adiş - Eğlenceli Çocuk Şarkıları"
   },
   {
     "bannerCategoryId": "4",
