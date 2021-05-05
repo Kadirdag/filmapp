@@ -2,18 +2,16 @@
 		"categoryId": 2,
 		"categoryTitle": "Pepe Şarkıları",
 		"categoryItemList": [
-			{
-				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620219190/kalbimkirildi.mp4",
+			
+			
+			  {
+				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620220130/cayeli.mp4",
 				"id": 2,
-				"imageUrl": "https://i.ytimg.com/vi/0Try_KIXdRs/hqdefault.jpg",
-				"movieName": "Pepee / Bebee - Kalbim Kırıldı - Çocuk Şarkılar"
+				"imageUrl": "https://i.ytimg.com/vi/UJY50cgrg6U/maxresdefault.jpg",
+				"movieName": "Pepee Çocuk Şarkıları - Çayeli"
 			},
-			{
-				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620219305/cis.mp4",
-				"id": 2,
-				"imageUrl": "https://i.ytimg.com/vi/Ca74KFKeJm0/hqdefault.jpg",
-				"movieName": "Pepee - Çişimiz Tuvalete Şarkısı - Pepee ve Pisi Çocuk Şarkıları - Çizgi Film"
-			},
+			
+			
 				{
 				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620219438/lehanim.mp4",
 				"id": 2,
@@ -80,12 +78,26 @@
 				"imageUrl": "https://i.ytimg.com/vi/8m1vVkBdlKg/maxresdefault.jpg",
 				"movieName": "Pepee - Yoğurt Şarkısı"
 			},
+			{
+				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620219305/cis.mp4",
+				"id": 2,
+				"imageUrl": "https://i.ytimg.com/vi/Ca74KFKeJm0/hqdefault.jpg",
+				"movieName": "Pepee - Çişimiz Tuvalete Şarkısı - Pepee ve Pisi Çocuk Şarkıları - Çizgi Film"
+			},
 				       {
 				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620221077/soguk.mp4",
 				"id": 2,
 				"imageUrl": "https://i.ytimg.com/vi/TzTVI0sC5NY/maxresdefault.jpg",
 				"movieName": "Pepee Çocuk Şarkıları - Soğuk Sıcak"
 			},
+			
+			{
+				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620219190/kalbimkirildi.mp4",
+				"id": 2,
+				"imageUrl": "https://i.ytimg.com/vi/0Try_KIXdRs/hqdefault.jpg",
+				"movieName": "Pepee / Bebee - Kalbim Kırıldı - Çocuk Şarkılar"
+			},
+			
 				       {
 				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620221153/kar.mp4",
 				"id": 2,
