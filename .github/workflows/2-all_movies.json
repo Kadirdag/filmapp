@@ -1,7 +1,8 @@
 [{
 		"categoryId": 2,
 		"categoryTitle": "Pepe Şarkıları",
-		"categoryItemList": [{
+		"categoryItemList": [
+			{
 				"fileUrl": "https://res.cloudinary.com/dxirppig1/video/upload/v1620219190/kalbimkirildi.mp4",
 				"id": 2,
 				"imageUrl": "https://i.ytimg.com/vi/0Try_KIXdRs/hqdefault.jpg",
@@ -112,7 +113,7 @@
 				"movieName": "The Expanse"
 			}
 		]
-	}
+	},
  
 
         {
